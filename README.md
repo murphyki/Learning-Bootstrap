@@ -1,4 +1,4 @@
 Learning-Bootstrap
 ==================
 
-Learning the bootstrap framework
+Learning the twitter bootstrap framework
